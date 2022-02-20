@@ -1,10 +1,10 @@
-##Case Study 2: Complex Embedded System
+# Case Study 2: Complex Embedded System
 
-##Washing Machine
+# Washing Machine
 
 
 
-#Introduction / Purpose:
+## Introduction / Purpose:
 
 Washing machine is a very useful appliance which is used in homes for washing and drying cloths. It reduces lot of human efforts of cleaning laundry.
 Input: User will select the command from key pad which he/she required according cloths.
@@ -12,21 +12,22 @@ Output: we will know the cloths are washed through LCD display which shows time 
 
 
 
-#Block Diagram:
+## Block Diagram:
 
-		Following is the block diagram of washing machine.
+Following is the block diagram of washing machine.
 
- 
+ ![washing ](https://user-images.githubusercontent.com/99121577/154841821-a3f9b137-aedc-41be-b6d5-16c7f0107473.jpg)
 
 
 
-#Components:
+
+## Components:
 
 1.	Key pad – It is used to give the input operations.
 
 2.	EEPROM – It is used to erase and reprogram stored data repeatedly in machine.
 
-3.	Amplifier + ADC – Amplifier is used to increase the power of signals which are getting from the weight, humidity, and current sensors. ADC is to convert analog to digital signal.
+3.	Amplifier + ADC – Amplifier is used to increase the power of signals which are getting from the weight, humidity, and current sensors. ADC is to convert analog to 	   digital signal.
 
 4.	Relay/TRIAC – It is used to control switching operations.
 
@@ -51,20 +52,20 @@ Output: we will know the cloths are washed through LCD display which shows time 
 
 
 
-#High Level Requirements:
+## High Level Requirements:
 
 
 1.	System Should wash cloths properly by spinning, rinsing, drying.
 2.	System should dry cloths after washing.
 3.	It should take water according to the weight or number of cloths.
-4.	System should have friendly user interface (key pad from which we select operation should easy to use for everybody) it should contain program select knob where every functions given according to the requirements for example if you are washing daily cloths the normal option should be there, for heavy and very dirty cloths heavy option should be there, for soft/silk cloths delicate option should be there any so many options according to the need. 
+4.	System should have friendly user interface (key pad from which we select operation should easy to use for everybody) it should contain program select knob where every 	       functions given according to the requirements for example if you are washing daily cloths the normal option should be there, for heavy and very dirty cloths heavy 	  option should be there, for soft/silk cloths delicate option should be there any so many options according to the need. 
 5.	If in case of any interruption like power off during machine is on in that situation it should resume working from the time it gets pause.
 6.	Energy Consumption and water consumption.
 
 
 
 
-#Low Level Requirements:
+## Low Level Requirements:
 
 1.	User should select proper functions.
 2.	Design of washing machine whether it is front loaded or top loaded.
@@ -72,7 +73,7 @@ Output: we will know the cloths are washed through LCD display which shows time 
 
 
 
-#Application: 
+## Application: 
 
 A washing machine is a home appliance used to wash laundry.
 
