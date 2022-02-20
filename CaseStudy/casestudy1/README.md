@@ -1,17 +1,17 @@
-##Case Study 1: Simple Embedded System
+## Case Study 1: Simple Embedded System
 		
-##Weighing Machine
+## Weighing Machine
 
 
-#Purpose: The main purpose is to measure the weight and mass of the    product or any other things.
+# Purpose: The main purpose is to measure the weight and mass of the    product or any other things.
 
-#Block Diagram: 
+# Block Diagram: 
 
 	
 
 
 
-#Components:
+# Components:
 
 1.	Transducer – A transducer comprising of a potentiometer and voltage source was used to convert the mechanical energy as sensed by the spring to electrical signal.
 
@@ -27,23 +27,23 @@
 
 
 
-#High Level Requirements:
+# High Level Requirements:
 
 1.	System Should Sense the mechanical input properly.
-2.	After sensing mechanical input and converting to digital then microcontroller should calculate weight and mass properly that means our program should be proper for precise and accurate output.
+2.	After sensing mechanical input and converting to digital then microcontroller should calculate weight and mass properly that means our program should be proper for           precise and accurate output.
 3.	The calculated or measured weight and mass should Displayed properly on LCD.
 4.	Size of weighing machine because it is of different size according  applications like for jewelry weighing it should be very compact.
 
 
 
-#Low Level Requirements:
+# Low Level Requirements:
 1.	It should be capable to hold weight.
 2.	Automatic features like automatic off for power saving.
 3.	Operational environment.
 
 
 
-#Applications:
+# Applications:
 1.	Manufacturing Industries
 2.	Counting of pieces
 3.	Shipping and logistics industries.
