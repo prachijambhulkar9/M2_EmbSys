@@ -7,7 +7,7 @@
 
 ## Block Diagram: 
 
-	![weight machine-page-001](https://user-images.githubusercontent.com/99121577/154841731-55c62047-6c69-4d12-a650-9a6461678ab4.jpg)
+![weight machine-page-001](https://user-images.githubusercontent.com/99121577/154841731-55c62047-6c69-4d12-a650-9a6461678ab4.jpg)
 
 
 
