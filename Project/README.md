@@ -93,7 +93,8 @@ The main objective of this project is:
 |LR_4|	Speed at 100% duty cycle|	Sucess|
 
 ## Block Diagram :
-![speed control-page-001](https://user-images.githubusercontent.com/99121577/155689171-64c9142c-cdaa-41fe-8a7a-b7fd457ccdc5.jpg)
+
+![speed control-page-001 2](https://user-images.githubusercontent.com/99121577/155692743-18e0afa2-3b7e-480a-85fc-4f2fe7814e3a.jpg)
 
 
 1. Push Button :- The push button switch is usually used to turn on and off the control circuit.
