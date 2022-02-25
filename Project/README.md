@@ -49,7 +49,7 @@ The main objective of this project is:
 4.Threats
 * A wide range of speed controller for the high rating of a motor is already available in the market.
 
-## WWWWH
+## 4W's and 1H's
 1.Who:
 * The person who has basic knowledge of speed controlling.
 * The person who wants to change the speed of appliances on which he working.
