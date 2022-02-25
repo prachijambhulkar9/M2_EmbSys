@@ -13,12 +13,12 @@
     4. Where
     5. How
 * Requirements
-    1.High Level Requirements
-    2.Low level Requirements
+    1. High Level Requirements
+    2 Low level Requirements
 * Block Diagram
-    1.Push Button
-    2.ATmega328
-    3.L293
+    1. Push Button
+    2. ATmega328
+    3. L293
 
 ## Introduction/Abstract :-
 Speed control of motors is very essential there are so many examples where speed control of DC motor is required For example- In Robotic application – Dc motor used to change direction and speed of moving robot. In Industrial application – Dc motor to change direction and speed of rotating machinery· In Domestic application – It is used to vary speed of portable fan, Mixer,Pumps etc and there are so many areas where speed control of Dc motor is required. So this project demonstrates how to vary the speed and change the direction of DC motor using AVR microcontroller ATmega328.
