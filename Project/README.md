@@ -2,16 +2,16 @@
 * Introduction/Abstract
 * Objective
 * SWOT ANALYSIS
-    1.Strenght
-    2.Weakness
-    3.Opportunities
-    4.Threats
+    1. Strenght
+    2. Weakness
+    3. Opportunities
+    4. Threats
 * WWWWH
-    1.Who
-    2.What
-    3.When
-    4.Where
-    5.How
+    1. Who
+    2. What
+    3. When
+    4. Where
+    5. How
 * Requirements
     1.High Level Requirements
     2.Low level Requirements
@@ -101,7 +101,7 @@ The main objective of this project is:
 2. ATmega328 :- The ATmega328 microcontroller combines 32 KB ISP flash memory with read-while-write capabilities, 1 KB EEPROM, 2 KB SRAM, 23 general-purpose I/O lines, 32 general-purpose working registers, 3 flexible timer/counters with compare modes, internal and external interrupts, serial programmable USART, a byte-oriented 2-wire serial interface, SPI serial port, 6-channel 10-bit A/D converter (8 channels in TQFP and QFN/MLF packages), programmable watchdog timer with internal oscillator, and 5 software-selectable power-saving modes. The device operates between 1.8 and 5.5 volts. The device achieves throughput approaching 1 MIPS/MHz
 
 
-Parallel program mode
+* Parallel program mode
 |Programming signal|	Pin Name|	I/O	Function|
 |:--:|:------------------------------------------------------:|:---------:|
 |RDY/BSY|	PD1	O|	High means the MCU is ready for a new command, otherwise busy.|
@@ -115,6 +115,7 @@ Parallel program mode
 |DATA|	PC[1:0]:PB[5:0]	|I/O	Bi-directional data bus (output when OE is low)|
 
 
+* Serial program mode
 |Serial| programming|
 |:--:|:------------------------------------------------------:|
 |Symbol|	Pins|	I/O	Description|
