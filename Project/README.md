@@ -75,12 +75,13 @@ The main objective of this project is:
 
 1.High Level Requirements:
 
-ID	Description	Status
-HR_1	Rotate motor in clockwise direction	Sucess
-HR_2	Rotate motor in anticlockwise direction	Sucess
-HR_3	Change the speed of motor in clockwise direction	Sucess
-HR_4	Change the speed of motor in anticlockwise direction	Sucess
-HR_5	Sudden stoppage of the motor	Future
+|ID|	Description|	Status|
+|:--:|:------------------------------------------------------:|:---------:|
+|HR_1|	Rotate motor in clockwise direction|	Sucess|
+|HR_2|	Rotate motor in anticlockwise direction|	Sucess|
+|HR_3|	Change the speed of motor in clockwise direction|	Sucess|
+|HR_4|	Change the speed of motor in anticlockwise direction|	Sucess|
+|HR_5|	Sudden stoppage of the motor|	Future|
 
 2.Low level Requirements:
 
