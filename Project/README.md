@@ -85,11 +85,12 @@ The main objective of this project is:
 
 2.Low level Requirements:
 
-ID	Description	Status
-LR_1	Speed at 25% duity cycle	Sucess
-LR_2	Speed at 50% duty cycle	Sucess
-LR_3	Speed at 75% duty cycle	Sucess
-LR_4	Speed at 100% duty cycle	Sucess
+|ID|	Description|	Status|
+|:--:|:------------------------------------------------------:|:---------:|
+|LR_1	|Speed at 25% duity cycle	|Sucess|
+|LR_2|	Speed at 50% duty cycle	|Sucess|
+|LR_3|	Speed at 75% duty cycle	|Sucess|
+|LR_4|	Speed at 100% duty cycle|	Sucess|
 
 ## Block Diagram :
 ![speed control-page-001](https://user-images.githubusercontent.com/99121577/155689171-64c9142c-cdaa-41fe-8a7a-b7fd457ccdc5.jpg)
@@ -97,29 +98,29 @@ LR_4	Speed at 100% duty cycle	Sucess
 
 1. Push Button :- The push button switch is usually used to turn on and off the control circuit.
 
-
-
 2. ATmega328 :- The ATmega328 microcontroller combines 32 KB ISP flash memory with read-while-write capabilities, 1 KB EEPROM, 2 KB SRAM, 23 general-purpose I/O lines, 32 general-purpose working registers, 3 flexible timer/counters with compare modes, internal and external interrupts, serial programmable USART, a byte-oriented 2-wire serial interface, SPI serial port, 6-channel 10-bit A/D converter (8 channels in TQFP and QFN/MLF packages), programmable watchdog timer with internal oscillator, and 5 software-selectable power-saving modes. The device operates between 1.8 and 5.5 volts. The device achieves throughput approaching 1 MIPS/MHz
 
 
 Parallel program mode
-Programming signal	Pin Name	I/O	Function
-RDY/BSY	PD1	O	High means the MCU is ready for a new command, otherwise busy.
-OE	PD2	I	Output enable (active low)
-WR	PD3	I	Write pulse (active low)
-BS1	PD4	I	Byte select 1 ("0" = Low byte, "1" = High byte)
-XA0	PD5	I	XTAL action bit 0
-XA1	PD6	I	XTAL action bit 1
-PAGEL	PD7	I	Program memory and EEPROM data page load
-BS2	PC2	I	Byte select 2 ("0" = low byte, "1" = 2nd high byte)
-DATA	PC[1:0]:PB[5:0]	I/O	Bi-directional data bus (output when OE is low)
+|Programming signal|	Pin Name|	I/O	Function|
+|:--:|:------------------------------------------------------:|:---------:|
+|RDY/BSY|	PD1	O|	High means the MCU is ready for a new command, otherwise busy.|
+|OE|	PD2	I|	Output enable (active low)|
+|WR	|PD3	I	|Write pulse (active low)|
+|BS1|	PD4	I	|Byte select 1 ("0" = Low byte, "1" = High byte)|
+|XA0	|PD5	I	|XTAL action bit 0|
+|XA1|	PD6	I	|XTAL action bit 1|
+|PAGEL	|PD7	I	|Program memory and EEPROM data page load|
+|BS2|	PC2	I|	Byte select 2 ("0" = low byte, "1" = 2nd high byte)|
+|DATA|	PC[1:0]:PB[5:0]	|I/O	Bi-directional data bus (output when OE is low)|
 
 
-Serial programming
-Symbol	Pins	I/O	Description
-MOSI	PB3	I	Serial data in
-MISO	PB4	O	Serial Data out
-SCK	PB5	I	Serial Clock
+|Serial| programming|
+|:--:|:------------------------------------------------------:|
+|Symbol|	Pins|	I/O	Description|
+|MOSI	|PB3	I	|Serial data in|
+|MISO|	PB4	O | Serial Data out|
+|SCK	|PB5	I	|Serial Clock|
 
 3. L293 :- The L293D is a 16-pin Motor Driver IC which can control a set of two DC motors simultaneously in any direction. The L293D is designed to provide bidirectional drive currents of up to 600 mA (per channel) at voltages from 4.5 V to 36 V (at pin 8!). You can use it to control small dc motors
 
