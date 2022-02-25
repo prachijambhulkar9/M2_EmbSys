@@ -1,42 +1,42 @@
-##Table of Content:
-*Introduction/Abstract
-*Objective
-*SWOT ANALYSIS
+## Table of Content:
+* Introduction/Abstract
+* Objective
+* SWOT ANALYSIS
     1.Strenght
     2.Weakness
     3.Opportunities
     4.Threats
-*WWWWH
+* WWWWH
     1.Who
     2.What
     3.When
     4.Where
     5.How
-*Requirements
+* Requirements
     1.High Level Requirements
     2.Low level Requirements
-*Block Diagram
+* Block Diagram
     1.Push Button
     2.ATmega328
     3.L293
 
-##Introduction/Abstract :-
+## Introduction/Abstract :-
 Speed control of motors is very essential there are so many examples where speed control of DC motor is required For example- In Robotic application – Dc motor used to change direction and speed of moving robot. In Industrial application – Dc motor to change direction and speed of rotating machinery· In Domestic application – It is used to vary speed of portable fan, Mixer,Pumps etc and there are so many areas where speed control of Dc motor is required. So this project demonstrates how to vary the speed and change the direction of DC motor using AVR microcontroller ATmega328.
 
-##Objective
+## Objective
 The main objective of this project is:
 
-*To change the speed of the motor as per the need.
-*To change the direction of rotation of the motor as per the need.
-*To save the energy of the battery.
-*To increase the life of the battery.
+* To change the speed of the motor as per the need.
+* To change the direction of rotation of the motor as per the need.
+* To save the energy of the battery.
+* To increase the life of the battery.
 
 
-##SWOT ANALYSIS
+## SWOT ANALYSIS
 
 1.Strength
-*It can change the speed of the motor as per the need.
-*It can change the direction of rotation of the motor as per the need.
+* It can change the speed of the motor as per the need.
+* It can change the direction of rotation of the motor as per the need.
 
 2.weakness
 * It is only limited to small ratings dc motor.
@@ -49,7 +49,7 @@ The main objective of this project is:
 4.Threats
 * A wide range of speed controller for the high rating of a motor is already available in the market.
 
-##WWWWH
+## WWWWH
 1.Who:
 * The person who has basic knowledge of speed controlling.
 * The person who wants to change the speed of appliances on which he working.
@@ -71,7 +71,7 @@ The main objective of this project is:
 * Using ATmega328 as a controller to control the speed and direction of dc motor.
 * Detail requirements
 
-##Requirements:
+## Requirements:
 
 1.High Level Requirements:
 
@@ -90,7 +90,8 @@ LR_2	Speed at 50% duty cycle	Sucess
 LR_3	Speed at 75% duty cycle	Sucess
 LR_4	Speed at 100% duty cycle	Sucess
 
-##Block Diagram :
+## Block Diagram :
+![speed control-page-001](https://user-images.githubusercontent.com/99121577/155689171-64c9142c-cdaa-41fe-8a7a-b7fd457ccdc5.jpg)
 
 
 1. Push Button :- The push button switch is usually used to turn on and off the control circuit.
