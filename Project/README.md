@@ -102,6 +102,7 @@ The main objective of this project is:
 
 
 * Parallel program mode
+
 |Programming signal|	Pin Name|	I/O	Function|
 |:--:|:------------------------------------------------------:|:---------:|
 |RDY/BSY|	PD1	O|	High means the MCU is ready for a new command, otherwise busy.|
@@ -116,6 +117,7 @@ The main objective of this project is:
 
 
 * Serial program mode
+
 |Serial| programming|
 |:--:|:------------------------------------------------------:|
 |Symbol|	Pins|	I/O	Description|
