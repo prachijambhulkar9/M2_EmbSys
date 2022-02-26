@@ -49,7 +49,7 @@ The main objective of this project is:
 4.Threats
 * A wide range of speed controller for the high rating of a motor is already available in the market.
 
-## 4W's and 1H's
+## 5W's and 1H's
 1.Who:
 * The person who has basic knowledge of speed controlling.
 * The person who wants to change the speed of appliances on which he working.
@@ -127,4 +127,5 @@ The main objective of this project is:
 |SCK	|PB5	I	|Serial Clock|
 
 3. L293 :- The L293D is a 16-pin Motor Driver IC which can control a set of two DC motors simultaneously in any direction. The L293D is designed to provide bidirectional drive currents of up to 600 mA (per channel) at voltages from 4.5 V to 36 V (at pin 8!). You can use it to control small dc motors
+4.  DC Motor - The DC motor is an actuator and we are going to control speed of dc motor.
 
