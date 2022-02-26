@@ -20,6 +20,8 @@
     1. Push Button
     2. ATmega328
     3. L293
+* Flow Chart
+* Application
 
 ## Abstract :-
 Speed control of motors is very essential there are so many examples where speed control of DC motor is required For example- In Robotic application – Dc motor used to change direction and speed of moving robot. In Industrial application – Dc motor to change direction and speed of rotating machinery· In Domestic application – It is used to vary speed of portable fan, Mixer,Pumps etc and there are so many areas where speed control of Dc motor is required. So this project demonstrates how to vary the speed and change the direction of DC motor using AVR microcontroller ATmega328.
@@ -131,7 +133,7 @@ The main objective of this project is:
 4.  DC Motor - The DC motor is an actuator and we are going to control speed of dc motor.
 
 
-##Flow Chart:-
+## Flow Chart:-
 ![Yes-page-001](https://user-images.githubusercontent.com/99121577/155835810-5ed08fbe-98b5-4f39-bfed-a59ff5cf9ae2.jpg)
 
 
