@@ -1,4 +1,5 @@
 ## Table of Content:
+
 * Introduction/Abstract
 * Objective
 * SWOT ANALYSIS
@@ -128,4 +129,8 @@ The main objective of this project is:
 
 3. L293 :- The L293D is a 16-pin Motor Driver IC which can control a set of two DC motors simultaneously in any direction. The L293D is designed to provide bidirectional drive currents of up to 600 mA (per channel) at voltages from 4.5 V to 36 V (at pin 8!). You can use it to control small dc motors
 4.  DC Motor - The DC motor is an actuator and we are going to control speed of dc motor.
+
+##Application:-
+In Industrial application – Dc motor to change direction and speed of rotating machinery· In Domestic application – It is used to vary speed of portable fan, Mixer,Pumps etc 
+
 
