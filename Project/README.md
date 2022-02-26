@@ -1,6 +1,6 @@
 ## Table of Content:
 
-* Introduction/Abstract
+* Abstract
 * Objective
 * SWOT ANALYSIS
     1. Strenght
@@ -21,7 +21,7 @@
     2. ATmega328
     3. L293
 
-## Introduction/Abstract :-
+## Abstract :-
 Speed control of motors is very essential there are so many examples where speed control of DC motor is required For example- In Robotic application – Dc motor used to change direction and speed of moving robot. In Industrial application – Dc motor to change direction and speed of rotating machinery· In Domestic application – It is used to vary speed of portable fan, Mixer,Pumps etc and there are so many areas where speed control of Dc motor is required. So this project demonstrates how to vary the speed and change the direction of DC motor using AVR microcontroller ATmega328.
 
 ## Objective
