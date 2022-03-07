@@ -16,7 +16,6 @@ jobs:
     - uses: actions/checkout@v2
     
     - name: apt install dependency
-      run: 
-        sudo apt-get -y install valgrind
+
     
  
