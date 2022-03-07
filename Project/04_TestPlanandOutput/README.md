@@ -10,4 +10,8 @@
 |06| For clockwise rotation of DC motor | 50% PWM | clockwise  rotation at 50% PWM | Success|
 |07| For clockwise rotation of DC motor | 75% PWM |  clockwise  rotation at 75% PWM | Success|
 
+# Low Level Test Plan
+|Test ID| Description | Input| Output| Passed|
+|:--:|:-------------:|:-----------------:|:------------------------:|:---------:|
+|01| For Stoppage of motor| 0% PWM | Motor stops Rotating | Success|
 
