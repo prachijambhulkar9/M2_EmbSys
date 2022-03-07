@@ -7,7 +7,7 @@
 |03|For anticlockwise rotation of DC motor | 75% PWM | anticlockwise rotation at 75% PWM | Success |
 |04|For anticlockwise rotation of DC motor | Full PWM | anticlockwise rotation at full PWM | Success |
 |05|For clockwise rotation of DC motor |    25% PWM | clockwise  rotation at 25% PWM | Success |
-|06| For clockwise rotation of Dc motor | 50% PWM | clockwise  rotation at 50% PWM | Success|
-|07| For clockwise rotation of Dc motor | 75% PWM |  clockwise  rotation at 75% PWM | Success|
+|06| For clockwise rotation of DC motor | 50% PWM | clockwise  rotation at 50% PWM | Success|
+|07| For clockwise rotation of DC motor | 75% PWM |  clockwise  rotation at 75% PWM | Success|
 
 
