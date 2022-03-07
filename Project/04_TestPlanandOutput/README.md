@@ -13,5 +13,5 @@
 # Low Level Test Plan
 |Test ID| Description | Input| Output| Passed|
 |:--:|:-------------:|:-----------------:|:------------------------:|:---------:|
-|01| For Stoppage of motor| 0% PWM | Motor stops Rotating | Success|
+|01| For Stopping of motor| 0% PWM | Motor stops Rotating | Success|
 
