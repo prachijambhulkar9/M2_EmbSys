@@ -10,4 +10,7 @@
 |Project | 01_Requirements * High Level Requirements * Low Level Requirements |
 |         |02_Architecture * Block Diagram * Flow Chart * Circuit Diagram |
 |         | 03_Implementation * inc * src * simulation * makefile * main.c * motor.h |
-|         | 
+|         | 04_TestPlanandOutput * High level test plan * Low level test plan |
+|         | 05_Report |
+|         | 06_ImagesandVideos|
+|         | 07_Application |
