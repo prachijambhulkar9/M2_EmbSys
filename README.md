@@ -8,4 +8,4 @@
 |:--------:|:------:|
 | Case Study | Case study 1 , Case Study 2|
 |Project | 01_Requirements * High Level Requirements * Low Level Requirements |
-|02_Architecture * Block Diagram * Flow Chart * Circuit Diagram |
+|         |02_Architecture * Block Diagram * Flow Chart * Circuit Diagram |
